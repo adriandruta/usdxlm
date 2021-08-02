@@ -1,28 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GAGWGIJVI6BDMIY44DXQSSQHKJC6VO7SM23OELZV64QNNVATZB5HGDIB"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="LumenMart"
+ORG_URL="https://www.lumenmart.org"
+ORG_DESCRIPTION="Lumen Mart is a professional company for consultancy in the crypto investing field."
+ORG_LOGO="https://i.ibb.co/bQK6PWs/usdxlm-logo.png"
+ORG_OFFICIAL_EMAIL="contact@lumenmart.org"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="USDXLM"
+issuer="GAGWGIJVI6BDMIY44DXQSSQHKJC6VO7SM23OELZV64QNNVATZB5HGDIB"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+name="Stellar Dollar"
+desc="No other currency has ever been so powerful as the Dollar. So you can trust our token based on the US Dollar. Make America Great Again!"
+conditions="There are 10M USDXLM issued now and forever. The asset is considered your property."
+image="https://i.ibb.co/bQK6PWs/usdxlm-logo.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+#USDXLM was issued using the open and inclusive Stellar blockchain network.
